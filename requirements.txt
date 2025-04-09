@@ -1,0 +1,6 @@
+PyQt5==5.15.9
+pillow==10.2.0
+PyMuPDF==1.23.5
+img2pdf==0.5.1
+pillow-avif-plugin==1.5.1
+webptools==0.0.9
